@@ -1,5 +1,5 @@
 - {repository: "https://github.com/rdowner/brooklyn-temperature-device"}
-- {repository: "https://github.com/andreaturli/brooklyn-logstash", parentId:"logstash-standalone"}
+- {repository: "https://github.com/andreaturli/brooklyn-logstash", parentId: "logstash-standalone"}
 - {repository: "https://github.com/andreaturli/brooklyn-kibana"}
 - {repository: "https://github.com/tbouron/brooklyn-gitlab"}
 - {repository: "https://github.com/cloudsoft/jmeter-entity"}
